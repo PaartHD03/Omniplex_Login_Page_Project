@@ -24,8 +24,5 @@ This project is a redesigned login page for Omniplex with modern UI and dynamic 
 ## Deployment
 Deployed on **Netlify** for free and secure hosting.
 
-## AI Tools Used
-- **ChatGPT**: Assisted in design, functionality, and code development.
-
 ## Author
 Paarth Parag Doshi  
