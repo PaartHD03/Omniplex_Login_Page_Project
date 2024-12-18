@@ -18,9 +18,6 @@ This project is a redesigned login page for Omniplex with modern UI and dynamic 
 1. Clone or download the repository.
 2. Open the `index.html` file in any modern browser.
 
-## Live Demo
-[Live Link](#) *(Update this after deployment)*
-
 ## Deployment
 Deployed on **Netlify** for free and secure hosting.
 Link - [https://extraordinary-frangollo-f07ba4.netlify.app/](https://omniplex-paarthd03.netlify.app/)
