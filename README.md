@@ -23,6 +23,7 @@ This project is a redesigned login page for Omniplex with modern UI and dynamic 
 
 ## Deployment
 Deployed on **Netlify** for free and secure hosting.
+Link - https://extraordinary-frangollo-f07ba4.netlify.app/
 
 ## Author
 Paarth Parag Doshi  
